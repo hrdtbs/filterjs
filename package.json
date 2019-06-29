@@ -1,5 +1,5 @@
 {
-    "name": "@hrdtbs/tpllibjs",
+    "name": "@hrdtbs/filterjs",
     "version": "0.0.0",
     "main": "index.js",
     "types": "types/index.d.ts",
@@ -8,7 +8,7 @@
         "package.json",
         "./*.js"
     ],
-    "repository": "git@github.com:hrdtbs/tpllibjs.git",
+    "repository": "git@github.com:hrdtbs/filterjs.git",
     "author": "hrdtbs <harada.tsubasa.0422@gmail.com>",
     "license": "MIT",
     "devDependencies": {
@@ -61,7 +61,6 @@
     "lint-staged": {
         "linters": {
             "*.{ts,tsx}": [
-                "yarn lint:style",
                 "yarn lint:fix:ts",
                 "git add"
             ],
@@ -73,9 +72,6 @@
                 "yarn lint:fix:text",
                 "git add"
             ]
-        },
-        "ignore": [
-            "dist/**/*"
-        ]
+        }
     }
 }
