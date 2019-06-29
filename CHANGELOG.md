@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/hrdtbs/filterjs/compare/v0.1.1...v0.1.2) (2019-06-29)
+
+
+### Bug Fixes
+
+* fix decorations ([f950570](https://github.com/hrdtbs/filterjs/commit/f950570))
+
+
+
 ## [0.1.1](https://github.com/hrdtbs/filterjs/compare/v0.1.0...v0.1.1) (2019-06-29)
 
 
