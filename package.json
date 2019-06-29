@@ -1,6 +1,6 @@
 {
     "name": "@hrdtbs/filterjs",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "main": "index.js",
     "types": "types/index.d.ts",
     "files": [
@@ -23,20 +23,20 @@
         "babel-loader": "^8.0.6",
         "conventional-changelog-cli": "^2.0.21",
         "core-js": "3",
+        "eslint": "^6.0.1",
         "eslint-config-prettier": "^5.1.0",
         "eslint-plugin-prettier": "^3.1.0",
         "eslint-plugin-sort-imports-es6-autofix": "^0.4.0",
-        "eslint": "^6.0.1",
         "husky": "^2.7.0",
         "lint-staged": "^8.2.1",
         "npm-run-all": "^4.1.5",
         "prettier": "^1.18.2",
+        "textlint": "^11.2.5",
         "textlint-rule-common-misspellings": "^1.0.1",
         "textlint-rule-preset-ja-technical-writing": "^3.1.2",
         "textlint-rule-preset-jtf-style": "^2.3.3",
         "textlint-rule-prh": "^5.2.1",
         "textlint-rule-spellcheck-tech-word": "^5.0.0",
-        "textlint": "^11.2.5",
         "typescript": "^3.5.2"
     },
     "scripts": {
