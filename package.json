@@ -1,15 +1,14 @@
 {
     "name": "@hrdtbs/filterjs",
     "version": "0.1.4",
-    "main": "index.js",
-    "types": "types/index.d.ts",
+    "main": "dist/index.cjs.js",
+    "jsnext:main": "dist/index.esm.js",
+    "module": "dist/index.esm.js",
+    "types": "dist/index.d.ts",
     "files": [
         "types",
         "package.json",
-        "isComponentName.js",
-        "isReactElement.js",
-        "isNumber.js",
-        "index.js"
+        "dist"
     ],
     "repository": "git@github.com:hrdtbs/filterjs.git",
     "author": "hrdtbs <harada.tsubasa.0422@gmail.com>",
@@ -40,10 +39,15 @@
         "textlint-rule-preset-jtf-style": "^2.3.3",
         "textlint-rule-prh": "^5.2.1",
         "textlint-rule-spellcheck-tech-word": "^5.0.0",
-        "typescript": "^3.5.2"
+        "typescript": "^3.5.2",
+        "rollup": "^1.16.2",
+        "rollup-plugin-babel": "^4.3.3",
+        "rollup-plugin-commonjs": "^10.0.0",
+        "rollup-plugin-node-resolve": "^5.1.0",
+        "rollup-plugin-typescript2": "^0.21.2"
     },
     "scripts": {
-        "build": "npx tsc --build ./tsconfig.json",
+        "build": "rollup -c",
         "update": "yarn upgrade-interactive --latest",
         "lint:ts": "eslint ./src/*.ts --cache",
         "lint:json": "prettier '*.json'",
