@@ -6,7 +6,9 @@
     "files": [
         "types",
         "package.json",
-        "./*.js"
+        "isComponentName.js",
+        "isReactElement.js",
+        "isNumber.js"
     ],
     "repository": "git@github.com:hrdtbs/filterjs.git",
     "author": "hrdtbs <harada.tsubasa.0422@gmail.com>",
