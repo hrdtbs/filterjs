@@ -1,6 +1,6 @@
 {
     "name": "@hrdtbs/filterjs",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "index.js",
     "types": "types/index.d.ts",
     "files": [

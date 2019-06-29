@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/hrdtbs/filterjs/compare/v0.1.2...v0.1.3) (2019-06-29)
+
+
+### Bug Fixes
+
+* fix import ([571a6cc](https://github.com/hrdtbs/filterjs/commit/571a6cc))
+
+
+
 ## [0.1.2](https://github.com/hrdtbs/filterjs/compare/v0.1.1...v0.1.2) (2019-06-29)
 
 
