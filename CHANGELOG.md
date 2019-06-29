@@ -1,3 +1,7 @@
+## [0.2.4](https://github.com/hrdtbs/filterjs/compare/v0.1.4...v0.2.4) (2019-06-29)
+
+
+
 ## [0.1.4](https://github.com/hrdtbs/filterjs/compare/v0.1.2...v0.1.4) (2019-06-29)
 
 
