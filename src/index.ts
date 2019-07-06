@@ -14,6 +14,7 @@ export * from "./isTrue"
 /**
  * Object
  */
+export * from "./isArray"
 /**
  * React
  */
