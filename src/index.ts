@@ -16,6 +16,7 @@ export * from "./isTrue"
  */
 export * from "./isArray"
 export * from "./isDate"
+export * from "./isError"
 /**
  * Node
  */
