@@ -21,6 +21,7 @@ export * from "./isError"
 export * from "./isFunction"
 export * from "./isGeneratorFunction"
 export * from "./isMap"
+export * from "./isSet"
 export * from "./isObject"
 export * from "./isRegExp"
 /**
