@@ -20,6 +20,7 @@ export * from "./isDate"
  * Node
  */
 export * from "./isDocument"
+export * from "./isElement"
 /**
  * React
  */
