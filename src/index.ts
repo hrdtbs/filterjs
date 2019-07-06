@@ -22,6 +22,7 @@ export * from "./isFunction"
 export * from "./isGeneratorFunction"
 export * from "./isMap"
 export * from "./isObject"
+export * from "./isRegExp"
 /**
  * Node
  */
