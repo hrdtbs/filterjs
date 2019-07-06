@@ -15,6 +15,11 @@ export * from "./isTrue"
  * Object
  */
 export * from "./isArray"
+export * from "./isDate"
+/**
+ * Node
+ */
+export * from "./isDocument"
 /**
  * React
  */
