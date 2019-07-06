@@ -18,6 +18,7 @@ export * from "./isArray"
 export * from "./isDate"
 export * from "./isError"
 export * from "./isFunction"
+export * from "./isGeneratorFunction"
 /**
  * Node
  */
