@@ -19,6 +19,7 @@ export * from "./isDate"
 export * from "./isError"
 export * from "./isFunction"
 export * from "./isGeneratorFunction"
+export * from "./isMap"
 /**
  * Node
  */
