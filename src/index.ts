@@ -11,6 +11,7 @@ export * from "./isNull"
  */
 export * from "./isFalse"
 export * from "./isTrue"
+export * from "./isNaN"
 /**
  * Object
  */
