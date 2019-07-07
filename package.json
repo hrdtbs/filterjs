@@ -1,6 +1,6 @@
 {
     "name": "@hrdtbs/filterjs",
-    "version": "0.2.4",
+    "version": "0.3.4",
     "main": "dist/index.cjs.js",
     "jsnext:main": "dist/index.esm.js",
     "module": "dist/index.esm.js",

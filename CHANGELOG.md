@@ -1,3 +1,12 @@
+## [0.3.4](https://github.com/hrdtbs/filterjs/compare/v0.2.4...v0.3.4) (2019-07-07)
+
+
+### Features
+
+* add filters ([#13](https://github.com/hrdtbs/filterjs/issues/13)) ([0f44572](https://github.com/hrdtbs/filterjs/commit/0f44572))
+
+
+
 ## [0.2.4](https://github.com/hrdtbs/filterjs/compare/v0.1.4...v0.2.4) (2019-06-29)
 
 
