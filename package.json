@@ -44,7 +44,7 @@
         "textlint-rule-preset-jtf-style": "^2.3.4",
         "textlint-rule-prh": "^5.2.1",
         "textlint-rule-spellcheck-tech-word": "^5.0.0",
-        "typescript": "^3.5.3"
+        "typescript": "^3.7.5"
     },
     "scripts": {
         "build": "rollup -c",
