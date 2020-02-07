@@ -1,3 +1,17 @@
+## [0.4.1](https://github.com/hrdtbs/filterjs/compare/v0.3.4...v0.4.1) (2020-02-07)
+
+
+### Bug Fixes
+
+* remove build files ([33e7361](https://github.com/hrdtbs/filterjs/commit/33e7361af428ffdbd2c2128b5cd14b4c03d6f1d6))
+
+
+### Features
+
+* add isWindows ([bdeade9](https://github.com/hrdtbs/filterjs/commit/bdeade9ef5e958af750659c278de2ac957c43bc8))
+
+
+
 # [0.4.0](https://github.com/hrdtbs/filterjs/compare/v0.3.4...v0.4.0) (2020-02-07)
 
 

@@ -1,6 +1,6 @@
 {
     "name": "@hrdtbs/filterjs",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "main": "dist/index.cjs.js",
     "jsnext:main": "dist/index.esm.js",
     "module": "dist/index.esm.js",
@@ -66,19 +66,17 @@
         }
     },
     "lint-staged": {
-        "linters": {
-            "*.{ts,tsx}": [
-                "yarn lint:fix:ts",
-                "git add"
-            ],
-            "*.{json}": [
-                "yarn lint:fix:json",
-                "git add"
-            ],
-            "*.{md}": [
-                "yarn lint:fix:text",
-                "git add"
-            ]
-        }
+        "*.{ts,tsx}": [
+            "yarn lint:fix:ts",
+            "git add"
+        ],
+        "*.{json}": [
+            "yarn lint:fix:json",
+            "git add"
+        ],
+        "*.{md}": [
+            "yarn lint:fix:text",
+            "git add"
+        ]
     }
 }
