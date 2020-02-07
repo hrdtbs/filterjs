@@ -1,3 +1,12 @@
+## [0.4.2](https://github.com/hrdtbs/filterjs/compare/v0.4.1...v0.4.2) (2020-02-07)
+
+
+### Bug Fixes
+
+* add support of firefox ([74772ca](https://github.com/hrdtbs/filterjs/commit/74772ca2c233f9a81ddf87dd62417954f267230c))
+
+
+
 ## [0.4.1](https://github.com/hrdtbs/filterjs/compare/v0.3.4...v0.4.1) (2020-02-07)
 
 
