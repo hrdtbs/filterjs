@@ -3,7 +3,7 @@
         "module": "esnext",
         "strict": true,
         "target": "es5",
-        "lib": ["esnext"],
+        "lib": ["esnext", "DOM"],
         "declaration": true,
         "declarationDir": "./types",
         "outDir": "./"

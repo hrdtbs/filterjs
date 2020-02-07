@@ -29,6 +29,7 @@ export * from "./isRegExp"
  */
 export * from "./isDocument"
 export * from "./isElement"
+export * from "./isWindows"
 /**
  * React
  */
