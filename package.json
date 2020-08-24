@@ -37,7 +37,7 @@
         "rollup-plugin-babel": "^4.3.3",
         "rollup-plugin-commonjs": "^10.1.0",
         "rollup-plugin-node-resolve": "^5.2.0",
-        "rollup-plugin-typescript2": "^0.22.1",
+        "rollup-plugin-typescript2": "^0.27.2",
         "textlint": "^11.3.1",
         "textlint-rule-common-misspellings": "^1.0.1",
         "textlint-rule-preset-ja-technical-writing": "^3.1.3",
